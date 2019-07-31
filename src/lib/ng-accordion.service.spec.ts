@@ -2,7 +2,7 @@ import { TestBed } from '@angular/core/testing';
 
 import { NgAccordionService } from './ng-accordion.service';
 
-describe('NgAccordionService', () => {
+xdescribe('NgAccordionService', () => {
   beforeEach(() => TestBed.configureTestingModule({}));
 
   fit('should be created', () => {
